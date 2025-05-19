@@ -85,7 +85,8 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-![msgqueue](./img/msgqueue.png)
+![msgqueue](https://github.com/user-attachments/assets/97887ade-a028-42f4-9b31-658601dde69c)
+
 
 
 # RESULT:
